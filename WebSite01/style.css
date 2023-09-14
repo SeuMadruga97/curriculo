@@ -1,0 +1,73 @@
+p1{
+  /* //currículo */
+    font-size: 45px;
+    color: rgb(243, 243, 243);
+    text-align: center;
+    border: 13px solid rgb(12, 12, 12);
+}
+
+body {
+    background-color: rgb(19, 74, 226);
+  }
+
+  h1 {
+    /* // Sobre mim */
+    color: rgb(238, 230, 230);
+    font-size: 45px;
+    border: 13px solid rgb(12, 12, 12)
+  }
+
+  h2{
+    /* //texto SM */
+color: aqua;
+    font-size: 45px;
+}
+
+img {
+    height: 1000px;
+    width:35%;
+    background-color: rgb(19, 74, 226);
+  }
+
+   h4{
+        text-align: center;
+        font-size: 45px;
+  } 
+
+  p2{
+    /* //Formações */
+    color: rgb(240, 238, 236);
+    text-align: center;
+    border: 13px solid rgb(12, 12, 12);
+    font-size: 45px;
+  }
+  
+  h3{
+    /* //eu */
+    font-size: 45px;
+    color: aqua;
+    text-align: center;
+   }
+
+   ul1{
+  font-size: 45px;
+  color: aqua;
+  text-align: center;
+  }
+
+  ul2{
+    font-size: 45px;
+    color: aqua;
+    text-align: center;
+  }
+
+  h5{
+    font-size: 45px;
+    color: aliceblue;
+    border: 13px solid rgb(12, 12, 12);
+  }
+
+    ul3{
+    font-size: 45px;
+    color: aqua;
+    }
